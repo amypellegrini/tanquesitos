@@ -1,0 +1,12 @@
+h1 {
+  width: 800px;
+  font-family: Arial;
+  font-weight: 400;
+  text-align: center;
+}
+
+canvas {
+  width: 800px;
+  height: 500px;
+  border: 1px solid;
+}
