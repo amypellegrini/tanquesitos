@@ -1,7 +1,7 @@
 /**
  * App init.
  */
-import playButton;
+import playButton from './components/play-button';
 
 window.onload = () => {
   
